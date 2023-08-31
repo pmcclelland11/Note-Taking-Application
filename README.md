@@ -1,12 +1,6 @@
 # UC Berkeley Coding Bootcamp - Module 11 Challenge
 ## Note-Taking-Application
-
-
-Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
-
-The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku.
-
-
+For this assignment, I was given starter code that contained a front-end template for a Note Taking Application. It was my job to build the back end, connect the two side, and then deploy the entire application to Heroku. The purpose of this app is to allow users write, save, and view notes, with a focus on connecting the user interface to the backend server.
 
 ## Table of Contents 
 - [User Story](#user-story)
@@ -58,8 +52,8 @@ N/A
 ## Acknowledgements
 N/A
 
-## Authors
-Authored by Patrick McClelland, UC Berkeley Bootcamp Student
+## Author
+Patrick McClelland, UC Berkeley Bootcamp Student
 
-## Video Walkthrough
-Command-Line Demo: (ADD IF NEEDED)
+## Deployed Application Link (via Heroku)
+https://murmuring-plateau-43658-5f9a5fb4b156.herokuapp.com/
