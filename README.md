@@ -59,7 +59,8 @@ N/A
 N/A
 
 ## Authors
-Authored by Patrick McClelland, UC Berkeley Bootcamp Student
+Starter code was provided to me.
+Modified by Patrick McClelland, UC Berkeley Bootcamp Student
 
 ## Video Walkthrough
 Command-Line Demo: (ADD IF NEEDED)
